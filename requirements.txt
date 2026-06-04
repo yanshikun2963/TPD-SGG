@@ -1,0 +1,21 @@
+# TPD-Net dependencies
+# Tested: Python 3.12.12 / PyTorch 2.7.0+cu128 / CUDA 12.8
+# Install PyTorch first, then: pip install -r requirements.txt
+ninja==1.13.0
+Cython==3.2.4
+yacs==0.1.8
+numpy==2.3.5
+scipy==1.17.1
+h5py==3.16.0
+Pillow==12.0.0
+opencv-python==4.13.0.92
+matplotlib==3.10.8
+tqdm==4.67.3
+overrides==7.7.0
+PyYAML==6.0.3
+six==1.17.0
+pycocotools==2.0.11
+networkx==3.6.1
+sympy==1.14.0
+typing_extensions==4.15.0
+Jinja2==3.1.6
